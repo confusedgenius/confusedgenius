@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Cloud Computing,Flutter,Machine Learning.**
+- 🌱 I’m currently learning **Java,Springboot,Microservices,AWS.**
 
-- 💬 Ask me about **HTML,CSS,C++,Arduino IDE**
+- 💬 Ask me about **Java,C++,Arduino IDE**
 
 - 📫 How to reach me **sudhanshunigam9389@gmail.com**
 
